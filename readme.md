@@ -2,7 +2,7 @@
 > A curated list of awesome Svelte & D3 resources
 
 ## Basics
-These are often split into Svelte and D3. So we list some essentials according to that here. 
+The basics are often split into Svelte and D3. So we list some essentials according to that here. 
 For more on each of the two visit [Awesome Svelte](https://github.com/TheComputerM/awesome-svelte) or [Awesome D3](https://github.com/wbkd/awesome-d3).
 Further below we focus this list on *the combination of Svelte & D3*.
 
