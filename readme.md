@@ -1,8 +1,10 @@
-# Awesome resources for the Svelte & D3 community 
-![awesome badge](https://badgen.net/badge/icon/awesome?icon=awesome&label)
+# Awesome Svelte & D3 ![awesome badge](https://badgen.net/badge/icon/awesome?icon=awesome&label)
+> A curated list of awesome Svelte & D3 resources
 
 ## Basics
-These are often split into Svelte and D3. So we list them according to that here:
+These are often split into Svelte and D3. So we list some essentials according to that here. 
+For more on each of the two visit [Awesome Svelte](https://github.com/TheComputerM/awesome-svelte) or [Awesome D3](https://github.com/wbkd/awesome-d3).
+Further below we focus this list on *the combination of Svelte & D3*.
 
 ### Svelte
 #### [The official Svelte Tutorial](https://svelte.dev/tutorial)
@@ -22,6 +24,7 @@ These are often split into Svelte and D3. So we list them according to that here
 
 ### Video
 #### [Effective data visualization with sveltejs and D3 by Matthias Stahl](https://youtu.be/GYXuOvX_fns?t=408)
-- how to combine Svelte and D3?
+- how to combine Svelte and D3
+- strengths of Svelte and D3 respectively
 
 ## In the wild
