@@ -6,11 +6,11 @@ The basics are often split into Svelte and D3. So we list some essentials accord
 For more on each of the two visit [Awesome Svelte](https://github.com/TheComputerM/awesome-svelte) or [Awesome D3](https://github.com/wbkd/awesome-d3).
 Further below we focus this list on *the combination of Svelte & D3*.
 
-### Svelte
+### Svelte Basics
 #### [The official Svelte Tutorial](https://svelte.dev/tutorial)
 - fun, interactive in-browser tutorials
 
-### D3
+### D3 Basics
 #### [How to learn D3.js by Amelia Wattenberger](https://wattenberger.com/blog/d3)
 - amazing, interactive blog post
 
