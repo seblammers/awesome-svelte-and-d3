@@ -50,3 +50,9 @@ Here are some awesome examples of visualizations created with Svelte & D3:
 
 ### [Visualizing Censorship in Iran by Matthias Stahl](https://visualization.journalismisnotacrime.com/)
 - [Code is here](https://github.com/higsch/censorship-in-iran)
+
+### [Precision & Recall by Jared Wilber](https://mlu-explain.github.io/precision-recall/)
+- [Code is here](https://github.com/aws-samples/aws-mlu-explain/tree/main/code/precision-recall)
+
+### [ROC & AUC by Jared Wilber](https://mlu-explain.github.io/roc-auc/)
+- [Code is here](https://github.com/aws-samples/aws-mlu-explain/tree/main/code/roc-auc)
