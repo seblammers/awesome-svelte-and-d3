@@ -46,19 +46,29 @@ Here are awesome tutorials that combine Svelte & D3:
 - strengths of Svelte and D3 respectively
 
 ## In the wild
-Here are some awesome examples of visualizations created with Svelte & D3:
+Here are some awesome examples of visualizations created with Svelte & D3 (sorted by recency):
 
-### [The circle of hope by Matthias Stahl](https://higsch.github.io/childhood-mortality)
-- [Code is here](https://github.com/higsch/childhood-mortality)
+### ROC & AUC by Jared Wilber
+- [Look at the live site](https://mlu-explain.github.io/roc-auc/)
+- [Browse the Code](https://github.com/aws-samples/aws-mlu-explain/tree/main/code/roc-auc)
 
-### [Fly high – pay low by Matthias Stahl](https://higsch.github.io/flyhigh/)
-- [Code is here](https://github.com/higsch/flyhigh)
+### Precision & Recall by Jared Wilber
+- [Look at the live site](https://mlu-explain.github.io/precision-recall)
+- [Browse the Code](https://github.com/aws-samples/aws-mlu-explain/tree/main/code/precision-recall)
 
-### [Visualizing Censorship in Iran by Matthias Stahl](https://visualization.journalismisnotacrime.com/)
-- [Code is here](https://github.com/higsch/censorship-in-iran)
+### Visualizing Censorship in Iran by Matthias Stahl
+- [Look at the live site](https://visualization.journalismisnotacrime.com)
+- [Browse the Code](https://github.com/higsch/censorship-in-iran)
 
-### [Precision & Recall by Jared Wilber](https://mlu-explain.github.io/precision-recall/)
-- [Code is here](https://github.com/aws-samples/aws-mlu-explain/tree/main/code/precision-recall)
+### The circle of hope by Matthias Stahl
+- [Look at the live site](https://higsch.github.io/childhood-mortality)
+- [Browse the Code](https://github.com/higsch/childhood-mortality)
 
-### [ROC & AUC by Jared Wilber](https://mlu-explain.github.io/roc-auc/)
-- [Code is here](https://github.com/aws-samples/aws-mlu-explain/tree/main/code/roc-auc)
+### Fly high – pay low by Matthias Stahl
+- [Look at the live site](https://higsch.github.io/flyhigh)
+- [Browse the Code](https://github.com/higsch/flyhigh)
+
+
+
+
+
