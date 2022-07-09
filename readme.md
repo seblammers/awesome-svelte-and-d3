@@ -1,15 +1,16 @@
 # Awesome Svelte & D3 ![awesome badge](https://badgen.net/badge/icon/awesome?icon=awesome&label) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
-> ⚡ A curated list of awesome Svelte & D3 resources
+
+⚡ A curated list of awesome Svelte & D3 resources
 
 > **Note**
+>
 > All contributions welcome!
 > - Start a pull request to directly add content
 > - Create an issue to start a public discussion
 > - Reach out [via mail](mailto:seblammers@posteo.org) 
 
-This list is focused on *the combination of Svelte & D3*.
-
 ## Basics
+This list is focused on *the combination of Svelte & D3*.
 If you're new to Svelte or D3 and want to learn the very basics you might want to check out some more focused tutorials on each to get an overview.
 To get started with Svelte, check out [The official Svelte Tutorial](https://svelte.dev/tutorial). 
 For an overview of D3, visit [How to learn D3.js by Amelia Wattenberger](https://wattenberger.com/blog/d3).
