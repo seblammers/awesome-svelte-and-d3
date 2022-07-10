@@ -49,6 +49,10 @@ Here are awesome tutorials that combine Svelte & D3:
 ## In the wild
 Here are some awesome examples of visualizations created with Svelte & D3 (sorted by recency):
 
+### Kanji with radicals by Dea Bankova
+- [Look at the live site](https://kanjiviz.netlify.app/)
+- [Browse the Code](https://github.com/deaxmachina/kanji_radicals_viz)
+
 ### ROC & AUC by Jared Wilber
 - [Look at the live site](https://mlu-explain.github.io/roc-auc/)
 - [Browse the Code](https://github.com/aws-samples/aws-mlu-explain/tree/main/code/roc-auc)
