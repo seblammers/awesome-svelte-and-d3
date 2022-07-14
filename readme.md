@@ -37,11 +37,21 @@ Here are awesome tutorials that combine Svelte & D3:
 #### [How to Use Svelte and D3 to Create an Interactive Data Visualisation by Russel Lim](https://javascript.plainenglish.io/how-to-use-svelte-and-d3-to-create-an-interactive-data-visualisation-d52e848fd995)
 - shows how to make a wordcloud-bar-chart with baby names
 
+#### [Code snippets by Amelia Wattenberger](https://svelte.recipes/)
+- recipes for creating data visualization components based on Svelte and D3
+
 #### [Mapping with Svelte and D3js by Roger Veciana](https://geoexamples.com/other/2019/12/08/mapping-svelte.html/)
 - some awesome examples of maps made with Svelte & D3, including ones with multiple geometries and color scales
 
+#### 
 
 ### Video
+
+#### [Data Visualization with Svelte and D3 by Matthias Stahl](https://www.youtube.com/watch?v=uVt01Z2TLvQ&t=0)
+- behind the scenes: Der Spiegel's graphics desk
+- advantages of combining Svelte and D3 to create interactive visualizations
+- live coding an interactive chart with Svelte and D3
+
 #### [Effective data visualization with sveltejs and D3 by Matthias Stahl](https://youtu.be/GYXuOvX_fns?t=408)
 - how to combine Svelte and D3
 - strengths of Svelte and D3 respectively
