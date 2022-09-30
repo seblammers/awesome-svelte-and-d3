@@ -27,7 +27,7 @@ Here are some awesome examples of visualizations created with Svelte & D3 (sorte
 - [Look at the live site](https://mlu-explain.github.io/logistic-regression/)
 - [Browse the Code](https://github.com/aws-samples/aws-mlu-explain/tree/main/code/linear-regression)
 
-### Taiwan’s 10 most popular street foods over the last decade by  Daisy Chung, Ivy Chen, Eva Huang, Leandro Collares & Julia Janicki
+### Taiwan’s 10 most popular street foods over the last decade by  Daisy Chung, Ivy Chen, Eva Huang, Julia Janicki & Leandro Collares
 - [Look at the live site](https://taiwandatastories.com/taiwan-street-food-interactive/)
 - [Browse the Code](https://github.com/TaiwanDataStories/streetfood-svelte)
 
