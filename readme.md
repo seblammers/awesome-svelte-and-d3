@@ -21,7 +21,7 @@ Here are some awesome examples of visualizations created with Svelte & D3 (sorte
 
 ### K-Means Clustering An Explorable Explainer by Yi Zhe Ang
 - [Look at the live site](https://k-means-explorable.vercel.app/)
-- [Browse the Code](https://github.com/aws-samples/aws-mlu-explain/tree/main/code/logistic-regression)
+- [Browse the Code](https://github.com/yizhe-ang/k-means-explorable)
 
 ### Linear Regression by Jared Wilber
 - [Look at the live site](https://mlu-explain.github.io/logistic-regression/)
