@@ -4,6 +4,13 @@
 It now has a frontend that you can see live here: https://awesome-svelte-and-d3.netlify.app/
 
 
+
+## I will not update this list in the future. If you want to contribute, please hop over into the other [repo](https://github.com/seblammers/awesome-svelte-and-d3-website).
+
+
+
+
+
 ⚡ A curated list of awesome Svelte & D3 resources
 
 > **Note**
